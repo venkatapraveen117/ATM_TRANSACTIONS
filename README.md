@@ -1,6 +1,6 @@
 # ATM_TRANSACTIONS:
 
-* This project was developed using JDBC and Java.
+** This project was developed using JDBC and Java **.
 ___________________
 Explanation of Sample Output:
 _______________________________
